@@ -13,7 +13,7 @@
 ```
 
 
-## 5. Example Commands
+## 5. Examples
 
 Append values:
 
