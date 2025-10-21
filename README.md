@@ -1,4 +1,8 @@
 
+```
+chmod +x mutator
+cp mutator /usr/local/bin
+```
 
 
 | Flag              | Description                                                                                                                                      | Example              |
